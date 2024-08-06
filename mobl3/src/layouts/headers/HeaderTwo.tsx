@@ -4,7 +4,6 @@ import { useState } from "react";
 import UseSticky from "../../hooks/UseSticky";
 import Image from "next/image";
 import NavMenuTwo from "./Menu/NavMenuTwo";
-import Sidebar from "./Menu/Sidebar";
 import HeaderOffcanvas from "./Menu/HeaderOffcanvas";
 
 import logo_1 from "@/assets/img/logo/logo.png";
