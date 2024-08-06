@@ -1,13 +1,13 @@
-import HomeOne from "@/component/homes/home-one";
+import HomeTwo from "@/component/homes/home-two";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-  title: "IKO - ICO & Crypto Landing Page React Next js Template",
+  title: "Mobl3 - Democratizing liquidity for long-tail assets.",
 };
 const index = () => {
   return (
     <Wrapper>
-      <HomeOne />
+      <HomeTwo />
     </Wrapper>
   )
 }
